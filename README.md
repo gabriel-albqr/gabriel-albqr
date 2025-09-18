@@ -69,7 +69,6 @@
 
   <img src="https://streak-stats.demolab.com?user=gabriel-albqr&locale=pt-br&mode=weekly&theme=blueberry&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  />
  <br/>
- <br>
   <img src="https://github-profile-trophy.vercel.app/?username=gabriel-albqr&theme=algolia&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 
 </div>
