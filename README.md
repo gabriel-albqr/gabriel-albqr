@@ -1,7 +1,7 @@
 <br>
 
 ##
-<h1 align="center">Olá, eu sou Gabriel Gomes👋</h1>
+<h1 align="center">Hello, I'm Gabriel Gomes👋</h1>
 
 ###
 <div align="center">
@@ -19,11 +19,11 @@
   </a>
 </div>
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">Desenvolvedor em formação, graduando Sistema De Informação, sou apaixonado por tecnologia e acredito no poder do desenvolvimento de sistemas para facilitar a vida das pessoas. Atualmente trabalho na Usina Petribu, criando soluções que otimizam processos, conectam pessoas e geram resultados reais. <br><br>Tenho experiência com desenvolvimento mobile usando Flutter, sistemas backend com Django e banco de dados MySQL. Busco sempre aprender mais e aplicar as melhores práticas em cada projeto.</p>
+<p align="left">A developer in training and currently majoring in Information Systems, I'm passionate about technology and believe in the power of systems development to make people's lives easier. I currently work at Usina Petribu, creating solutions that optimize processes, connect people, and generate real results. I have experience with mobile development using Flutter, backend systems using Django, and MySQL databases. I'm always striving to learn more and apply best practices to each project.</p>
 
 
 ---
@@ -38,14 +38,14 @@
 ###
 ---
 
-## Tecnologias e linguagens 💻
+### Technologies and languages 💻
 
 [![My Skills](https://skillicons.dev/icons?i=python,dart,docker)](https://skillicons.dev)
 
-### 🚀 Frameworks e bibliotecas
+### 🚀 Frameworks and libraries
 [![My Skills](https://skillicons.dev/icons?i=flutter,django,mysql)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
+### 🛠️ Development Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,discord,notion,firebase,nginx,androidstudio)](https://skillicons.dev)
 
 
@@ -69,10 +69,10 @@
 
 ---
 
-##  Entre em contato
+##  Get in touch
 
 - 📧 **Email:** gabriel.albqdev@outlook.com
 
 ---
 
-> *“A tecnologia move o mundo.”* – Steve Jobs
+> *“Technology moves the world.”* – Steve Jobs
