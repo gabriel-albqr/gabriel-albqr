@@ -1,7 +1,9 @@
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXU2cDY2aXVrYTB3NHpiYzZrYWdqYnZlcG5hbGY2OWZzdGJjdnAzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
 <br>
+
+##
+<h1 align="center">Olá, eu sou Gabriel Gomes👋</h1>
+
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-albqr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -17,18 +19,12 @@
   </a>
 </div>
 
-
-##
-
-<h1 align="center">Olá, eu sou Gabriel Gomes👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">Desenvolvedor em formação, sou apaixonado por tecnologia e acredito no poder do desenvolvimento de sistemas para facilitar a vida das pessoas. Atualmente trabalho na Usina Petribu, criando soluções que otimizam processos, conectam pessoas e geram resultados reais. <br><br>Tenho experiência com desenvolvimento mobile usando Flutter, sistemas backend com Django e banco de dados MySQL. Busco sempre aprender mais e aplicar as melhores práticas em cada projeto.</p>
+<p align="left">Desenvolvedor em formação, graduando Sistema De Informação, sou apaixonado por tecnologia e acredito no poder do desenvolvimento de sistemas para facilitar a vida das pessoas. Atualmente trabalho na Usina Petribu, criando soluções que otimizam processos, conectam pessoas e geram resultados reais. <br><br>Tenho experiência com desenvolvimento mobile usando Flutter, sistemas backend com Django e banco de dados MySQL. Busco sempre aprender mais e aplicar as melhores práticas em cada projeto.</p>
+
 
 ---
 <br>
@@ -52,12 +48,6 @@
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,discord,notion,firebase,nginx,androidstudio)](https://skillicons.dev)
 
-<p align="left"> 
-  Sou graduando em <strong>Sistema Da Informação</strong> pela Estácio. <br>
-  Tenho me aprofundado em <strong>Dart</strong>, com foco em <strong>Flutter</strong> para o front-end e <strong>Django</strong> para o back-end.
-  <br>
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
-</p>
 
 ---
 
