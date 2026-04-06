@@ -1,85 +1,78 @@
 <h2 align="center">Hello, I'm Gabriel Gomes 👋</h2>
-
 <p align="center">
-  <strong>FullStack Developer • Flutter & Django • Information Systems Student</strong>
+  <img src="https://komarev.com/ghpvc/?username=gabriel-albqr&color=green" alt="Profile views"/>
 </p>
 
 ---
-
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-albqr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
   <a href="https://dev.to/gabrielalbqr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://stackoverflow.com/users/31517687/gabriel-g-de-albuquerque" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&color=FE7A16&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&color=FE7A16&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
 
----
+<br>
 
-## 👩‍💻 About Me
+- 🔥 Full Stack Developer (Mobile-first) | Flutter, Django & Python
 
-I'm a developer in training and currently majoring in **Information Systems**, passionate about technology and problem-solving through software.
+- 🔭 I’m currently working at <a href="https://www.petribu.com.br/" target="_blank">Usina Petribu S/A</a>
 
-I currently work at **Usina Petribu**, developing systems that optimize operational processes, integrate data, and generate real business value. I have hands-on experience with **mobile development using Flutter**, **backend systems with Django**, and **relational databases** such as **MySQL** and **Oracle**.
-
-I value clean architecture, well-defined rules, and software that mirrors real-world business logic. I'm always learning, improving, and applying best practices in every project I work on.
+- 💬 Ask me about **Python, Django, Flutter, Dart, SQL, Golang, HTML, CSS**
 
 ---
 
 ## 🧠 Skills & Technologies
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=white)&nbsp;
 
 ---
 
 ### 🚀 Frameworks & Platforms
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=0A7C5A)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=white)&nbsp;
 
 ---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=white)&nbsp;
 
 ---
 
 ### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
-![Oracle SQL Developer](https://img.shields.io/badge/-SQL%20Developer-333333?style=flat&logo=oracle)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
-![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=white)&nbsp;
+![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver&logoColor=white)&nbsp;
+![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-05122A?style=flat&logo=oracle&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion&logoColor=white)&nbsp;
 
 ---
 
 ### ⚙️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=white)&nbsp;
 
 ---
-
-
 
 ## 📈 Activity
 
@@ -93,10 +86,10 @@ I value clean architecture, well-defined rules, and software that mirrors real-w
 
 ---
 
-
-
 <p align="center">
   <em>“Technology moves the world.”</em> – Steve Jobs
 </p>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BFFF,100:00008B"/>
