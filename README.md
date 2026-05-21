@@ -19,17 +19,20 @@
 
 <br>
 
-- 🔥 Full Stack Developer (Mobile-first) | Flutter, Django & Python
+- 🔥 Full Stack Developer (Mobile-first) | Flutter, Django, Golang & Python
 
 - 🔭 I’m currently working at <a href="https://www.petribu.com.br/" target="_blank">Usina Petribu S/A</a>
 
-- 💬 Ask me about **Python, Django, Flutter, Dart, SQL, Golang, HTML, CSS**
+- 🌍 Experience with Offline-first Architecture, Maps & APIs
+
+- 💬 Ask me about **Python, Django, Flutter, Dart, SQL, Golang, APIs, Docker, Redis**
 
 ---
 
 ## 🧠 Skills & Technologies
 
 ### 💻 Languages
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=white)&nbsp;
@@ -39,28 +42,34 @@
 ---
 
 ### 🚀 Frameworks & Platforms
+
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
+![Django%20REST](https://img.shields.io/badge/-Django%20REST-05122A?style=flat&logo=django&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=white)&nbsp;
+![Firebase%20Messaging](https://img.shields.io/badge/-FCM-05122A?style=flat&logo=firebase&logoColor=white)&nbsp;
 
 ---
 
 ### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=white)&nbsp;
+![PostGIS](https://img.shields.io/badge/-PostGIS-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
 
 ---
 
 ### 🛠️ Development Tools
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=white)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=white)&nbsp;
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver&logoColor=white)&nbsp;
 ![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-05122A?style=flat&logo=oracle&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
@@ -69,7 +78,9 @@
 ---
 
 ### ⚙️ DevOps & Infrastructure
+
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white)&nbsp;
+![Docker%20Compose](https://img.shields.io/badge/-Docker%20Compose-05122A?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=white)&nbsp;
 
 ---
@@ -87,7 +98,7 @@
 ---
 
 <p align="center">
-  <em>“Technology moves the world.”</em> – Steve Jobs
+  <em>"Technology moves the world."</em> – Steve Jobs
 </p>
 
 <br>
