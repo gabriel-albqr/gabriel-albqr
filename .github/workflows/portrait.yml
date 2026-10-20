@@ -1,0 +1,35 @@
+name: Gerar retrato ASCII
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - profile-photo.jpg
+      - scripts/prep_photo.py
+      - scripts/make_ascii_svg.py
+      - scripts/requirements.txt
+      - .github/workflows/portrait.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: false
+
+jobs:
+  portrait:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/prep_photo.py profile-photo.jpg
+      - run: python scripts/make_ascii_svg.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: atualiza retrato ASCII [skip ci]'
+          file_pattern: 'avi-ascii.svg source-prepped.png'

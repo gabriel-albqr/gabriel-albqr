@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+# Foto anterior preservada apenas no ambiente local.
+source-prepped.jpg

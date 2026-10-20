@@ -1,0 +1,4 @@
+# Arquivos gerados pelos scripts e workflows do perfil.
+# Em conflitos, mantenha a versão local: o workflow diário regenera o heatmap.
+contrib-heatmap.svg merge=ours linguist-generated=true
+data/contributions.json merge=ours linguist-generated=true
